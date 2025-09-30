@@ -1,16 +1,17 @@
-## Hi there 👋
+# TansuGame / rokuhati68
 
-<!--
-**rokuhati68/rokuhati68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unityで小さなパズルやミニゲームを作っています。
 
-Here are some ideas to get you started:
+**Play:**  
+ - Cat Puzzle（ネコを寝かせよう！）  😸
+-  [GitHub Pages](https://rokuhati68.github.io/Cat-Puzzle-Game/) ｜ [unityroom](https://unityroom.com/games/＜あなたのID＞)　｜　 [WebPage](https://github.com/rokuhati68/Cat-Puzzle-Game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About me
+- Unity / C#
+- WebGL（Compression: Brotli or Gzip + Decompression Fallback: ON）
+- お問い合わせ：GitHub Issues または unityroom のメッセージ
+
+<!-- バッジ例（任意）
+![Unity](https://img.shields.io/badge/Unity-202x.x-000?logo=unity)
+![WebGL](https://img.shields.io/badge/WebGL-Playable-orange)
 -->
