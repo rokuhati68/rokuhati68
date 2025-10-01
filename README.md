@@ -1,6 +1,6 @@
-# TansuGame / rokuhati68
+# rokuhati68
 
-Unityで小さなパズルやミニゲームを作っています。
+Unityでミニゲームを作っています。
 
 **Play:**  
  - Cat Puzzle（ネコを寝かせよう！）  😸
