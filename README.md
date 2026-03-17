@@ -13,7 +13,8 @@ Unityでミニゲームを作っています。
 -  [GitHub Pages](https://rokuhati68.github.io/Corner-Escape-Game/) ｜ [unityroom](https://unityroom.com/games/fireEscape)　｜　 [WebPage](https://github.com/rokuhati68/Corner-Escape-Game)
 
 **その他**
-- 就活面接ソフト
+- 就活面接ソフト [https://rokuhati68.github.io/mensetsu-memo/]
+
 **開発中**
 - Slot-Rogue-Lite-Game
 - [https://github.com/rokuhati68/Slot-Rogue-Lite-Game]
